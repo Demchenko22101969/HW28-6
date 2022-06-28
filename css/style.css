@@ -1,0 +1,35 @@
+header {
+    background-color: aqua;
+    height: 70px;
+    text-align: center;
+    
+}
+section {
+    margin: auto;
+    display:flex;
+   
+    
+    background-color: blueviolet;
+    height: 350px;
+}
+nav {
+   
+   width: 25%;
+    background-color: yellow;
+    text-align: left;
+    
+    margin: 5px;
+}
+article {
+    width: 75%;
+    background-color: red;
+    margin: 5px;
+   
+}
+footer {
+    height: 70px;
+    border: 1px solid blue;
+    background-color: green;
+    text-align: center;
+  
+}
